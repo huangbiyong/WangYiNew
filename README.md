@@ -1,5 +1,3 @@
-# WangYiNew
-
 
 ## 效果图
 ![效果](http://upload-images.jianshu.io/upload_images/9242195-44e637fcfa1138fd.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -16,7 +14,7 @@
 @end
 
 ```
-- 在 viewDidLoad 添加自己的控制器，控制器必须写使用title
+- 在 viewDidLoad 添加自己的控制器，控制器必须使用title
 ```
 - (void)viewDidLoad {
 [super viewDidLoad];
