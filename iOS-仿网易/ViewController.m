@@ -40,7 +40,7 @@
     [self addChildViewController:videoVC];
     
     RecommendViewController *RecommendVC = [[RecommendViewController alloc]init];
-    RecommendVC.title = @"首页";
+    RecommendVC.title = @"推荐";
     [self addChildViewController:RecommendVC];
     
     ProfileViewController *profileVC = [[ProfileViewController alloc]init];
